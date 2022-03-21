@@ -3,4 +3,5 @@
 Official implementation of the StarNet paper:
 https://arxiv.org/abs/2003.06798
 
-Would be released here soon.
+
+the code is available at: https://github.com/jshtok/StarNet
